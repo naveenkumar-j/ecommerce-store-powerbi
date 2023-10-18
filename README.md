@@ -1,4 +1,4 @@
-# Learn PowerBI Dashboard
+# Ecommerce PowerBI Dashboard
 
 ## What is PowerBI?
 Power BI is a unified, scalable platform for self-service and enterprise business intelligence (BI). Connect to and visualise any data, and seamlessly infuse the visuals into the apps you use every day.
